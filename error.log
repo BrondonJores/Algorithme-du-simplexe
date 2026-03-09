@@ -1,0 +1,31 @@
+[05-Nov-2025 04:54:07 UTC] PHP Warning:  Undefined array key 6 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 04:58:02 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, int given in C:\wamp64\www\tp_recherche\algo_simplexe.php:80
+Stack trace:
+#0 C:\wamp64\www\tp_recherche\algo_simplexe.php(80): array_merge(Array, 3, Array, Array)
+#1 {main}
+  thrown in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 80
+[05-Nov-2025 04:58:14 UTC] PHP Warning:  Undefined array key 6 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 04:58:26 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, int given in C:\wamp64\www\tp_recherche\algo_simplexe.php:80
+Stack trace:
+#0 C:\wamp64\www\tp_recherche\algo_simplexe.php(80): array_merge(Array, 1, Array, Array)
+#1 {main}
+  thrown in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 80
+[05-Nov-2025 04:58:37 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, int given in C:\wamp64\www\tp_recherche\algo_simplexe.php:80
+Stack trace:
+#0 C:\wamp64\www\tp_recherche\algo_simplexe.php(80): array_merge(Array, 2, Array, Array)
+#1 {main}
+  thrown in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 80
+[05-Nov-2025 04:59:30 UTC] PHP Warning:  Undefined variable $n in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 80
+[05-Nov-2025 04:59:30 UTC] PHP Warning:  Undefined variable $m in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 80
+[05-Nov-2025 04:59:30 UTC] PHP Warning:  Undefined variable $n in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 81
+[05-Nov-2025 04:59:30 UTC] PHP Warning:  Undefined variable $type in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 82
+[05-Nov-2025 04:59:30 UTC] PHP Warning:  Undefined array key 4 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 152
+[05-Nov-2025 05:00:11 UTC] PHP Warning:  Undefined array key 6 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 05:00:26 UTC] PHP Warning:  Undefined array key 7 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 05:00:26 UTC] PHP Warning:  Undefined array key 8 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 05:00:26 UTC] PHP Warning:  Undefined array key 7 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 05:00:26 UTC] PHP Warning:  Undefined array key 8 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 134
+[05-Nov-2025 05:01:15 UTC] PHP Warning:  Undefined array key 7 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 129
+[05-Nov-2025 05:01:15 UTC] PHP Warning:  Undefined array key 8 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 129
+[05-Nov-2025 05:01:15 UTC] PHP Warning:  Undefined array key 7 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 129
+[05-Nov-2025 05:01:15 UTC] PHP Warning:  Undefined array key 8 in C:\wamp64\www\tp_recherche\algo_simplexe.php on line 129
