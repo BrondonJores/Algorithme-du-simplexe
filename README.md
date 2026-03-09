@@ -11,7 +11,7 @@ Ce depot contient une interface web en 2 pages :
 - `algo_simplexe.php` : moteur de calcul du simplexe (retour JSON)
 - `style.css` : style global (theme neon, animations, mise en page)
 
-Le front genere les formulaires selon le nombre de variables/contraintes, envoie les donnees a `algo_simplexe.php` via `fetch`, puis affiche chaque tableau de pivot et la solution optimale.
+Le front genere les formulaires selon le nombre de variables/contraintes, envoie les données à `algo_simplexe.php` via `fetch`, puis affiche chaque tableau de pivot et la solution optimale.
 
 ## Fonctionnalites
 
